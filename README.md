@@ -1,19 +1,12 @@
 ### 안녕하세요! 이형진입니다. 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvoidreader%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+방문자분들께 다음의 Repository들이 공개되어있습니다. 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidreader)](https://github.com/voidreader)
-<!--
-**voidreader/voidreader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 창업 종료 후 공개 가능한 프로젝트
+- 개인 사이드 프로젝트
+- 개인 스터디 프로젝트 
 
-Here are some ideas to get you started:
+[자세한 이력사항은 이 문구를 클릭해서 확인해주세요.](https://lessgame.notion.site/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+감사합니다.
+
