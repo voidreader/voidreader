@@ -6,7 +6,7 @@
 - 개인 사이드 프로젝트
 - 개인 스터디 프로젝트 
 
-[자세한 이력사항은 이 문구를 클릭해서 확인해주세요.](https://lessgame.notion.site/)
+[자세한 이력사항은 이곳에서 확인해주세요.](https://lessgame.notion.site/)
 
 감사합니다.
 
